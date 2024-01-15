@@ -14,7 +14,7 @@ public class Lecture01 {
     //
     // You can comment a lot of lines at once in VSCode by
     // highlighting the lines and then pressing Control/Command-/
-    // (or press Control/Command-P to bring up the Command Pallete and look for the
+    // (or press Control/Command-P to bring up the Command Pallet and look for the
     // 'Toggle Line Comment' command)
 
     // Put your answer for #4 here:
@@ -35,24 +35,36 @@ public class Lecture01 {
     // 9. Let them sit on the baking pan for 2 minutes before moving to cooling rack.
 
     // Put your answer for #5 here:
-    // MyProgram.java is in human-readable code for the purpose of development.
-    // MyProgram.class has been converted from english to computer-readable byte code
+    // MyProgram.java contains the source code which has human-readable language for the purpose of development.
+    // MyProgram.class has been compiled into computer-readable bytecode by the compiler
+    // and is now readable by the java virtual machine for execution.
 
     // Put your answer for #6 here:
     // please copy-and-paste the actual answers here (instead of listing A, D, R, Q,
-    // etc)
+    // etc.)
     // printIn, AnnualSalary, ABC, B4
+    // printIn
+    // AnnualSalary
+    // sum_of_data
+    // _average
+    // ABC
+    // B4
 
     // Put your answer for #7 here:
     // please copy-and-paste the actual answers here (instead of listing A, D, R, Q,
-    // etc)
+    // etc.)
+    // System.out.println("Hello, world!");
 
     // Put your answer for #8 here:
+    // Does this print quotes?
+    // What about this, does this print "quotes"?
+    // How '"confounding' "\" it is!
+    System.out.println("How '\"conofounding' \"\\\" it is!");
 
     // Put your answer for #16 here:
     // NOTE: This code should compile and run!
     System.out.println("My answer for question #16:");
-    // (VSCode/Prettier isn't letting me put a blank line after the code so I'll put
+    // (VSCode/Prettier isn't letting me put a blank line after the code, so I'll put
     // this comment in, instead)
 
     // Put your answer for #20 here:
