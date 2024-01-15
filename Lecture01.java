@@ -5,6 +5,7 @@ London Paris
 public class Lecture01 {
 
   public static void main(String[] args) {
+    System.out.println("IT-CS 143 Rocks!");
     System.out.println();
     System.out.println("Hello, world!");
     // Note: you will need to put some of your answers inside a comments
@@ -59,7 +60,7 @@ public class Lecture01 {
     // Does this print quotes?
     // What about this, does this print "quotes"?
     // How '"confounding' "\" it is!
-    System.out.println("How '\"conofounding' \"\\\" it is!");
+    System.out.println("How '\"confounding' \"\\\" it is!");
 
     // Put your answer for #16 here:
     // NOTE: This code should compile and run!
@@ -67,6 +68,13 @@ public class Lecture01 {
     // (VSCode/Prettier isn't letting me put a blank line after the code, so I'll put
     // this comment in, instead)
 
+    System.out.println("Twas brillig and the ");
+    System.out.println("slithy toves did gyre and");
+    System.out.println("gimble");
+    System.out.println();
+    System.out.println("in the wabe. ");
+
     // Put your answer for #20 here:
+
   }
 }
